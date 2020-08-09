@@ -30,6 +30,13 @@ The following files are provided for use with fortune:
     * Plain text file containing all of the introduction quotes and "Today's Proverb" quotes from each episode
 * `nightvale_combined.dat`
     * Binary data file for the above plain text quotes
+* `nightvale_welcome_trimmed`
+* `nightvale_proverbs_trimmed`
+* `nightvale_combined_trimmed`
+* `nightvale_welcome_trimmed.dat`
+* `nightvale_proverbs_trimmed.dat`
+* `nightvale_combined_trimmed.dat`
+   * Same as above, but with the "Today's Proverb:" header and "Welcome to Nightvale." removed
 
 
 ## Installation & Usage
