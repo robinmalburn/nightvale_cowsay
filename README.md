@@ -1,6 +1,6 @@
 # Welcome To Night Vale Cowsay / Fortunes
 
-This is a simple collection `cowsay` cow files and `fortune` quotes from [Welcome To Night Vale](http://commonplacebooks.com/)
+This is a simple collection `cowsay` cow files and `fortune` quotes from [Welcome To Night Vale](http://commonplacebooks.com/). It has proverbs and sayings updated until December 15th, 2023.
 
 ## Files
 
@@ -69,4 +69,4 @@ For example, to use the combined quotes with the standard sized Night Vale eye l
 ## Credits
 
 * __Welcome To Night Vale__ belongs to [Commonplace Books](http://commonplacebooks.com/)
-* Quotes and proverbs extracted from the [plain text episode transcripts](https://github.com/Mara-K/nightvaledb)
+* Quotes and proverbs extracted from the [Night Vale wiki](https://nightvale.fandom.com/wiki/Cold_Openings). Also see the [plain text episode transcripts](https://github.com/Mara-K/nightvaledb)
